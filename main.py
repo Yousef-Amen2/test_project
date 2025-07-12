@@ -1,2 +1,2 @@
-def print(name):
+def userWelcomeUser(name):
     return f"Welcome: {name}"
